@@ -28,8 +28,7 @@ p {
 }
 
 .max-width-wrapper {
-  min-width: min-content;
-  max-width: auto;
+  max-width: 0 auto;
 }
 
 .intro-chunk {
